@@ -14,7 +14,7 @@ Thumbs.db
 /coverage
 
 # production
-/build
+
 
 # production environment variables
 .env
